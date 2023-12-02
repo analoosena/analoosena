@@ -8,6 +8,9 @@
 🌐 Em busca de desafios interessantes e colaborações. Adoro transformar ideias criativas em código funcional.
 
 📚 Estudante ávida, sempre em busca de conhecimento e pronta para compartilhar aprendizados.
+<br><br>
+### 💬 Vamos conversar:
+📧 Me contate: ana.luizasena@outlook.com
 <br><br><br>
 
 ### Habilidades

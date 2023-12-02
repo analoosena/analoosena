@@ -1,4 +1,15 @@
 ### Olá! 👋
+
+<br><br>
+🚀 Desenvolvedora Front-end em ascensão, explorando o universo do código e criando experiências visuais incríveis.
+
+💡 Atualmente aprendendo e aprimorando minhas habilidades em HTML, CSS e JavaScript. Animada para mergulhar no mundo dos frameworks como React.
+
+🌐 Em busca de desafios interessantes e colaborações. Adoro transformar ideias criativas em código funcional.
+
+📚 Estudante ávida, sempre em busca de conhecimento e pronta para compartilhar aprendizados.
+<br><br><br>
+
 ### Habilidades
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -8,8 +19,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analoosena&show_icons=true&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/analoosena/GoTrip_site))
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=analoosena&repo=analoosena&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/analoosena/GoTrip_site)https://github.com/analoosena/GoTrip_site)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=analoosena&repo=GoTrip_site&theme=gruvbox)
 
 ### Contatos
 

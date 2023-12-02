@@ -21,6 +21,9 @@
 ### Projetos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=analoosena&repo=GoTrip_site&theme=gruvbox)
 
+### Linguagens Utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analoosena&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/ana-lu%C3%ADza-coelho-sena-85911114b/)

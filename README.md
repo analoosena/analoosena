@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! 👋
+### Habilidades
 
-<!--
-**analoosena/analoosena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analoosena&show_icons=true&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/analoosena/GoTrip_site))
 
-Here are some ideas to get you started:
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=analoosena&repo=analoosena&theme=gruvbox)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/analoosena/GoTrip_site)https://github.com/analoosena/GoTrip_site)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/ana-lu%C3%ADza-coelho-sena-85911114b/)
+
